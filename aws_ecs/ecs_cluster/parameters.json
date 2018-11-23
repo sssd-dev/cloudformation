@@ -1,0 +1,34 @@
+[
+  {
+    "ParameterKey": "ClusterName",
+    "ParameterValue": "RDE-API-CLUSTER-TEST"
+  },
+  {
+    "ParameterKey": "Image",
+    "ParameterValue": "778784494011.dkr.ecr.us-east-1.amazonaws.com/rde-api:292a2ea"
+  },
+  {
+    "ParameterKey": "MappingTableName",
+    "ParameterValue": "RDE-API-TABLE-TEST-MappingTable-W62XKSCETIAS"
+  },
+  {
+    "ParameterKey": "ServiceName",
+    "ParameterValue": "RDE-API-SERVICE-TEST"
+  },
+  {
+    "ParameterKey": "SubnetIds",
+    "ParameterValue": "subnet-068fc293e3ad7a9be,subnet-010e9b59b8f280b98"
+  },
+  {
+    "ParameterKey": "TableName",
+    "ParameterValue": "RDE-API-TABLE-TEST-Table-NFW7EPM26ULV"
+  },
+  {
+    "ParameterKey": "TaskName",
+    "ParameterValue": "rde-api"
+  },
+  {
+    "ParameterKey": "VpcId",
+    "ParameterValue": "vpc-02267fbf8b2ec8e30"
+  } 
+]
